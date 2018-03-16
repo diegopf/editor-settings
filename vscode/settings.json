@@ -1,0 +1,20 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "editor.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Tomorrow Night Operator Mono",
+  "window.menuBarVisibility": "toggle",
+  "window.zoomLevel": 0,
+  "materialTheme.cache.workbench.settings": {
+    "themeColours": "Palenight High Contrast"
+  },
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily":
+    "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}
