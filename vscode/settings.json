@@ -16,5 +16,6 @@
   "workbench.iconTheme": "vscode-great-icons",
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontFamily":
-    "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+    "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "diffEditor.renderSideBySide": false
 }
